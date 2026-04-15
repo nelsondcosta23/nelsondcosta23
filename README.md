@@ -30,13 +30,13 @@ I'm a **Technology Executive** and **"Vibe Coder"** with **16+ years** of experi
 ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![OVH](https://img.shields.io/badge/OVH-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Wireguard](https://img.shields.io/badge/WireGuard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white)
 
 **Databases & BaaS**  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![PocketBase](https://img.shields.io/badge/PocketBase-40D9FF?style=flat&logo=pocketbase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 **Data, Automation & Management**  
-![Bitrix24](https://img.shields.io/badge/Bitrix24-006ee4?style=flat&logo=bitrix24&logoColor=white) ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![Bitrix24](https://img.shields.io/badge/Bitrix24-006ee4?style=flat&logo=bitrix24&logoColor=white) ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Data Studio](https://img.shields.io/badge/Data_Studio-4285F4?style=flat&logo=google-data-studio&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 ---
 
@@ -58,5 +58,7 @@ I'm a **Technology Executive** and **"Vibe Coder"** with **16+ years** of experi
 <br>
 <div align="center">
   <i>"I'm obsessed with simplifying processes — if it can be automated, it won't stay manual."</i> <br>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=nelsondcosta23&layout=1&color=0" alt="Profile Views"/></a>
+  <img src="https://komarev.com/ghpvc/?username=nelsondcosta23&color=0077b5&style=flat-square" alt="Profile Views"/>
+  <br><br>
+  <img src="./tech_innovation.png" width="100%" alt="Innovation Banner" />
 </div>
