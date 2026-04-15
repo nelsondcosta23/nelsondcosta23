@@ -58,7 +58,4 @@ I'm a **Technology Executive** and **"Vibe Coder"** with **16+ years** of experi
 <br>
 <div align="center">
   <i>"I'm obsessed with simplifying processes — if it can be automated, it won't stay manual."</i> <br>
-  <img src="https://komarev.com/ghpvc/?username=nelsondcosta23&color=0077b5&style=flat-square" alt="Profile Views"/>
-  <br><br>
-  <img src="./tech_innovation.png" width="100%" alt="Innovation Banner" />
 </div>
