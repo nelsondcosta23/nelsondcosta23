@@ -53,7 +53,7 @@ AI PC parts advisor for non-technical users, recommending components by need and
 Directory for discovering European tech alternatives, focused on digital sovereignty.
 `React 19` `TanStack Start` `Cloudflare Workers` `PocketBase` `Docker`
 
-Full portfolio with all 13 projects: **[hub.nelsondcosta.ovh](https://hub.nelsondcosta.ovh/)**
+Full portfolio with all 13 projects: **[nelsondcosta.ovh](https://nelsondcosta.ovh/)**
 
 ---
 
@@ -92,7 +92,6 @@ Game server hosting business. 20 to 30 physical servers, 80+ clients, no dedicat
 ### Get in touch
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://nelsondcosta.ovh/)
-[![Projects Hub](https://img.shields.io/badge/Projects_Hub-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)](https://hub.nelsondcosta.ovh/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsondcosta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelsonfilipecosta@gmail.com)
 
